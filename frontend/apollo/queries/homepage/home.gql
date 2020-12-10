@@ -1,0 +1,6 @@
+query Homepage {
+  homepage {
+    id,
+    call_to_action
+  }
+}
